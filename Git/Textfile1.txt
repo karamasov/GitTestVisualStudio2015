@@ -26,6 +26,8 @@ Hamsun er Gud da sjø.
 
 Dette er en endring i gren1.
 
+Dette er også i gren1, men fra notepad++
+
 Knut Hamsun. Pan (Kindle Locations 28-38). 
 ecame insignificant. Hamsun begins where Ibsen ended, one might say. The one problem never consciously raised by him as a problem is that of man's duty or ability 
 to express his own nature. That is taken for granted. The figures populating the works of Hamsun, whether centrally placed or moving shadowlike in the periphery, are 
